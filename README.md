@@ -10,4 +10,4 @@ Some of the data used in this analysis are not publicly available and therefore 
 
 If you use code from this repository, please cite the following publication:
 
-...
+Gause EL, McLone SG, Cunningham M, Jay J. Community-Academic Partnership to Assess the Role of Physical Disinvestment on Firearm Violence in Toledo, OH. _J Urban Health_. Published online 2024. doi:https://doi.org/10.1007/s11524-024-00870-y
